@@ -2,6 +2,7 @@ import React from "react";
 import "bulma/css/bulma.css";
 import githubClip from "../assets/images/github.png";
 import linkdClip from "../assets/images/linkedin.png";
+import facebook from "../assets/images/Facebook-logo.png";
 
 function Footer() {
   return (
@@ -19,6 +20,12 @@ function Footer() {
       <a href="https://www.linkedin.com/in/andrew-neuwirth-b31421219/" className="mx-2 image is-128x128">
         <img
           src={linkdClip}
+          className="is-rounded"
+        />
+      </a>
+      <a href="https://www.facebook.com/andrew.neuwirth16/" className="mx-2 image is-128x128">
+        <img
+          src={facebook}
           className="is-rounded"
         />
       </a>

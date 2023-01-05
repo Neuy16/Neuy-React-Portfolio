@@ -14,8 +14,6 @@ function Navigation(props) {
           >
             <a
               href={"#" + page.toLowerCase()}
-              // Whenever a page is clicked on,
-              // the current page is set through the handlePageChange props.
               onClick={() => props.handlePageChange(page)}
               className={props.currentPage === page ? "nav-link active" : "nav-link"}
             >
