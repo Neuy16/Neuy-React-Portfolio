@@ -1,0 +1,17 @@
+.header {
+    background: teal;
+    height: 200px;
+  }
+  
+  .header h1 {
+    margin: 0;
+    padding-top: 75px;
+    text-align: center;
+    color: white;
+    font-size: 3rem;
+  }
+
+  #name {
+    font-size: xx-large;
+    font-family:'Courier New', Courier, monospace
+  }

@@ -1,0 +1,26 @@
+{
+  "name": "neuy-react-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neuy16/Neuy-React-Portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Neuy16/Neuy-React-Portfolio/issues"
+  },
+  "homepage": "https://github.com/Neuy16/Neuy-React-Portfolio#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.7.1",
+    "react-scripts": "^5.0.1",
+    "web-vitals": "^3.1.0"
+  }
+}
