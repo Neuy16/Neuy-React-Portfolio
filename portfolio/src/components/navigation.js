@@ -3,7 +3,7 @@ import '../styles/navigation.css'
 import 'bulma/css/bulma.css'
 
 function Navigation(props) {
-  const pages = ["About Me", "Projects", "Contact", "Resume"];
+  const pages = ["About Me", "Portfolio", "Contact", "Resume"];
   return (
     <div className=" tabs navbar has-background-primary is-centered">
       <ul className="nav nav-pages">

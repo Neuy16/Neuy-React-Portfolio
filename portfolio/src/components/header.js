@@ -14,7 +14,7 @@ function Header(props) {
     switch (page) {
       case "About":
         return <AboutMe />;
-      case "Projects":
+      case "Portfolio":
         return <Project />;
       case "Contact":
         return <Contact />;
