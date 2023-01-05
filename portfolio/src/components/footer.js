@@ -8,7 +8,7 @@ function Footer() {
   return (
     <footer className="mt-auto footer has-background-primary">
       <h1 className="columns has-text-white is-size-2 is-centered">
-        Thank you!💪
+        Thank you for your time and consideration!💪
       </h1>
       <div className="columns is-half is-centered mt-auto">
       <a href="https://github.com/Neuy16?tab=repositories" className="mx-2 image is-128x128">
