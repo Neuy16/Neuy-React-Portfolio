@@ -1,11 +1,11 @@
 import React from 'react';
-import '../styles/footer.css';
+import 'bulma/css/bulma.css'
 
   
   function Footer() {
     return (
-      <footer className="footer">
-        <h1>Thank you!</h1>
+      <footer className="mt-auto footer has-background-primary">
+        <h1 className="columns has-text-white is-size-3 is-centered">Thank you!</h1>
       </footer>
     );
   }

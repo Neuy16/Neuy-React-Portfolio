@@ -1,6 +1,7 @@
 .navbar {
   background-color: teal;
     height: 60px;
+    
   }
   
   .navbar a {
@@ -9,6 +10,7 @@
     text-decoration: none;
     margin: 5px;
     line-height: 3;
+    
   }
   
  
