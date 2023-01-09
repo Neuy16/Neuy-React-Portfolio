@@ -15,18 +15,21 @@ function Footer() {
         <img
           src={githubClip}
           className="is-rounded"
+          alt="github"
         />
       </a>
       <a href="https://www.linkedin.com/in/andrew-neuwirth-b31421219/" className="mx-2 image is-128x128">
         <img
           src={linkdClip}
           className="is-rounded"
+          alt="linkedin"
         />
       </a>
       <a href="https://www.facebook.com/andrew.neuwirth16/" className="mx-2 image is-128x128">
         <img
           src={facebook}
           className="is-rounded"
+          alt="facebook"
         />
       </a>
       </div>
