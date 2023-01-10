@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Neuy-React-Portfolio/static/css/main.486bdc85.css",
+    "main.js": "/Neuy-React-Portfolio/static/js/main.bc255e32.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Neuy-React-Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/meathead.PNG": "/Neuy-React-Portfolio/static/media/meathead.4932489c34920ebc09df.PNG",
+    "static/media/suit.PNG": "/Neuy-React-Portfolio/static/media/suit.fe989f5edd964a8052f6.PNG",
+    "static/media/cover.PNG": "/Neuy-React-Portfolio/static/media/cover.f95ff5f1bee3022dc368.PNG",
+    "static/media/Andrews_Resume.pdf": "/Neuy-React-Portfolio/static/media/Andrews_Resume.fd5083a8f4045164fe12.pdf",
+    "static/media/Facebook-logo.png": "/Neuy-React-Portfolio/static/media/Facebook-logo.1b4951518d38aae03f7f.png",
+    "index.html": "/Neuy-React-Portfolio/index.html",
+    "main.486bdc85.css.map": "/Neuy-React-Portfolio/static/css/main.486bdc85.css.map",
+    "main.bc255e32.js.map": "/Neuy-React-Portfolio/static/js/main.bc255e32.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Neuy-React-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.486bdc85.css",
+    "static/js/main.bc255e32.js"
+  ]
+}
