@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Neuy-React-Portfolio/static/css/main.486bdc85.css",
-    "main.js": "/Neuy-React-Portfolio/static/js/main.0b7e9ac9.js",
+    "main.js": "/Neuy-React-Portfolio/static/js/main.1d79e229.js",
     "static/js/787.1ed0c42c.chunk.js": "/Neuy-React-Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/meathead.PNG": "/Neuy-React-Portfolio/static/media/meathead.4932489c34920ebc09df.PNG",
     "static/media/oldPortfolio.PNG": "/Neuy-React-Portfolio/static/media/oldPortfolio.8c0bef1a248e528b668c.PNG",
@@ -14,11 +14,11 @@
     "static/media/textEditor.PNG": "/Neuy-React-Portfolio/static/media/textEditor.6f449ef06ae7e2c40b9a.PNG",
     "index.html": "/Neuy-React-Portfolio/index.html",
     "main.486bdc85.css.map": "/Neuy-React-Portfolio/static/css/main.486bdc85.css.map",
-    "main.0b7e9ac9.js.map": "/Neuy-React-Portfolio/static/js/main.0b7e9ac9.js.map",
+    "main.1d79e229.js.map": "/Neuy-React-Portfolio/static/js/main.1d79e229.js.map",
     "787.1ed0c42c.chunk.js.map": "/Neuy-React-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.486bdc85.css",
-    "static/js/main.0b7e9ac9.js"
+    "static/js/main.1d79e229.js"
   ]
 }
